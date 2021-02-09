@@ -1,4 +1,4 @@
-const zeusmenu = (prefix, pushname) => {
+const hidramenu = (prefix, pushname) => {
     return `❍ *Comandos do Zeus*
     
     ║➩ ❍ ${prefix}setprefix
