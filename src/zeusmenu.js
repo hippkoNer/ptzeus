@@ -9,4 +9,4 @@ const hidramenu = (prefix, pushname) => {
 
 }
 
-exports.zeusmenu = zeusmenu
+exports.hidramenu = hidramenu
