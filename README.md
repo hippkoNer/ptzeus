@@ -26,7 +26,7 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/vinizeus/ptzeus.git
+> git clone https://github.com/AnonymousVitim/ptzeus.git
 > cd ptzeus
 > bash install.sh
 ```
@@ -45,6 +45,6 @@ Siga os passos abaixo!
 
 ## CONTATOS
 
-- Whatsapp: wa.me/+556993899391
+- Whatsapp: wa.me/+5567996005372
 - Instagram: @zultra_edits
 - YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
