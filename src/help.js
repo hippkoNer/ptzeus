@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *Zeus* 」
+「 *Hidra* 」
 
   ❍ *Informações*
   ❍ Prefix: 「  ${prefix}  」
-  ❍ Dono : Zeus
-  ❍ Canal do dono: https://https://bit.ly/3pn6lpK
+  ❍ Dono : ViTiM wa.me/+5567996005372
+  ❍ Canal do dono: ...
 
 ❍ 𝚂𝙾𝙱𝚁𝙴
   
