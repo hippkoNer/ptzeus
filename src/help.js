@@ -61,7 +61,7 @@ const help = (prefix) => {
   ║➩ ❍ ${prefix}ytsearch
 ❍ 𝙵𝙰𝙻𝙰𝙻𝙰𝚁 𝙲𝙾𝙼 𝙱𝙾𝚃
   
-  ║➩ ❍ ${prefix}chatzeus
+  ║➩ ❍ ${prefix}chathidra
   ║➩ ❍ ${prefix}whatday
   ║➩ ❍ ${prefix}avalie
   ║➩ ❍ ${prefix}chatpode
