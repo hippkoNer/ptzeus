@@ -4,8 +4,8 @@ const help = (prefix) => {
 
   ❍ *Informações*
   ❍ Prefix: 「  ${prefix}  」
-  ❍ Dono : ViTiM wa.me/+5567996005372
-  ❍ Canal do dono: ...
+  ❍ Dono : HIPPKO Wa.me/+553181030138
+  ❍ Canal do dono: Tem não...🥲
 
 ❍ 𝚂𝙾𝙱𝚁𝙴
   
